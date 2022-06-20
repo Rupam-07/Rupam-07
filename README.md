@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Rupam-07
+- Self-taught Programmer
 - 👀 I’m interested in - HackerEarth Problems
 - 🌱 I’m currently learning ...DSA
 - 💞️ I’m looking to collaborate on ...
