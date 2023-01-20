@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rupam-07
 - Self-taught Programmer
 - 👀 I’m interested in - HackerEarth Problems
-- 🌱 I’m currently learning ...DSA
+- 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rupamkarmakarcr7@gmail.com
 - Currently doing pentesting
